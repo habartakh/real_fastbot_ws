@@ -1,0 +1,7 @@
+{
+  "documentId": "5cc1ab3865e181b5ec2858d9", 
+  "outputFormat": "urdf",
+  "packageName": "fastbot_description/onshape",
+  "robotName": "fastbot",
+  "assemblyName": "fastbot-student"
+}
